@@ -1,1 +1,1 @@
-[![MrAndre's GitHub stats](https://github-readme-stats.vercel.app/api?username=eiandremoreira)](https://github.com/anuraghazra/github-readme-stats)
+[![My profile](https://github-readme-stats.vercel.app/api?username=eiandremoreira&show_icons=true&theme=midnight-purple)]
