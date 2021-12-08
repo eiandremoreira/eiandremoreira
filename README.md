@@ -8,9 +8,9 @@
 Bem, não tenho costume de criar projetos open-source, então posso não ser muito ativo aqui no github.
 
 
-## [Shynk -  Discord Bot](https://www.shynkbot.xyz)
+## [Way -  Discord Bot](https://waydiscordbot.ga)
 
-Conheça um dos meus projetos. A Shynk é uma bot para o Discord com funcionalidades para proteger e alegrar o seu servidor no Discord.
+Conheça um dos meus projetos. A Way é uma bot para o Discord com comandos para alegrar os membros de seu servidor.
 
 ## Minhas Estatíticas:
 
