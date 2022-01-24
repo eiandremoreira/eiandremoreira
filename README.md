@@ -12,7 +12,7 @@ Bem, não tenho costume de criar projetos open-source, então posso não ser mui
 
 Conheça um dos meus projetos. A Way é uma bot para o Discord com comandos para alegrar os membros de seu servidor.
 
-## Minhas Estatíticas:
+## Minhas Estatísticas:
 
 ![My profile](https://github-readme-stats.vercel.app/api?username=eiandremoreira&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eiandremoreira&layout=compact&theme=radical)
