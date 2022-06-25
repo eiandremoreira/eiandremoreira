@@ -7,11 +7,6 @@
 
 Bem, não tenho costume de criar projetos open-source, então posso não ser muito ativo aqui no github.
 
-
-## [Way -  Discord Bot](https://waydiscordbot.ga)
-
-Conheça um dos meus projetos. A Way é uma bot para o Discord com comandos para alegrar os membros de seu servidor.
-
 ## Minhas Estatísticas:
 
 ![My profile](https://github-readme-stats.vercel.app/api?username=eiandremoreira&show_icons=true&theme=radical)
